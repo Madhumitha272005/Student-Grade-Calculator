@@ -1,30 +1,30 @@
 Student Grade Calculator is a Python program that takes a student’s name and marks, validates input using a while loop, calculates grades with if-elif-else logic, and displays encouraging messages. It demonstrates functions, input validation, and clean console-based output.
 
-Objectives
+Objectives:
 
-Accept student name and marks as input
+1.Accept student name and marks as input
 
-Validate marks to ensure they fall between 0 and 100
+2.Validate marks to ensure they fall between 0 and 100
 
-Calculate grades using if-elif-else statements
+3.Calculate grades using if-elif-else statements
 
-Use functions to organize grading logic
+4.Use functions to organize grading logic
 
-Display personalized and motivating messages
+5.Display personalized and motivating messages
 
-Practice loops and error handling
+6.Practice loops and error handling
 
 ⚙️ How It Works
 
-The program prompts the user to enter the student’s name.
+1.The program prompts the user to enter the student’s name.
 
-A while loop ensures valid marks input (0–100).
+2.A while loop ensures valid marks input (0–100).
 
-A dedicated function processes the marks and determines the grade.
+3.A dedicated function processes the marks and determines the grade.
 
-Conditional statements assign grades (A, B, C, D, F).
+4.Conditional statements assign grades (A, B, C, D, F).
 
-The final result is displayed with an encouraging message.
+5.The final result is displayed with an encouraging message.
 
 🧠 Grading Criteria
 Grade	Marks Range
