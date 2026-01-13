@@ -1,0 +1,29 @@
+Test Case 1:
+Name: Priya
+Marks: 95
+Expected Grade: A
+
+Test Case 2:
+Name: Rahul
+Marks: 82
+Expected Grade: B
+
+Test Case 3:
+Name: Anita
+Marks: 74
+Expected Grade: C
+
+Test Case 4:
+Name: Kiran
+Marks: 61
+Expected Grade: D
+
+Test Case 5:
+Name: Aman
+Marks: 45
+Expected Grade: F
+
+Test Case 6:
+Name: Invalid Input
+Marks: 120
+Expected: Error message, re-enter marks
